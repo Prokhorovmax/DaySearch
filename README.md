@@ -4,8 +4,9 @@ Made by Prokhorov Max, SPbSTU, gr. 3530901/60202, 2019.
 
 Build and Run
 
-        gradle build
+        git clone https://github.com/Prokhorovmax/DaySearch.git
         gradle bootRun
+        curl http://localhost:8080/?year=1998
 
 Examples
 
